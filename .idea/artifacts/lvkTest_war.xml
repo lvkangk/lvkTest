@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lvkTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="lvkTest.war">
+      <element id="artifact" artifact-name="lvkTest:war exploded" />
+    </root>
+  </artifact>
+</component>
