@@ -5,7 +5,7 @@
 public class User {
     String name;
     long id1;
-    Long id2;
+    long id2;
 
     public String getName() {
         return name;
@@ -23,11 +23,11 @@ public class User {
         this.id1 = id1;
     }
 
-    public Long getId2() {
+    public long getId2() {
         return id2;
     }
 
-    public void setId2(Long id2) {
+    public void setId2(long id2) {
         this.id2 = id2;
     }
 }
